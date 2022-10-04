@@ -1,0 +1,16 @@
+*{
+  margin:0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+}
+
+
+body{
+  width: 100%;
+  height: 100vh;
+  background-image: url("https://image.tmdb.org/t/p/w780/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg");
+  background-size: cover;
+  font-family:'Ubuntu', sans-serif ;
+
+}
